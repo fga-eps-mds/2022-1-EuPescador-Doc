@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 
 baseurl: /
-url: https://fga-eps-mds.github.io
+url: https://fga-eps-mds.github.io/2022-1-EuPescador-Doc
 
 title: Just the Docs
 theme: "just-the-docs"
