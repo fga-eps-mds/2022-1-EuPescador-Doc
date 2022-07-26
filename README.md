@@ -4,8 +4,6 @@ Repositório para documentação do projeto EuPescador, desenvolvido pelos membr
 
 ## Sobre o projeto
 
-Aplicativo catalogado por pescadores que auxilia pesquisadores no mapeamento das espécies de peixes.
-
 ---
 ## Time
 
