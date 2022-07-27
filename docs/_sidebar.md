@@ -1,6 +1,6 @@
 - [**Projeto**](/projeto/_index.md)
   - [**Gestão da Equipe**](/projeto/gestao-equipe.md)
-  - [**Plano de Contribuição**](/projeto/plano-comunicacao.md)
+  - [**Plano de Contribuição**](/projeto/plano-contribuicao.md)
   - [**Análise de risco**](/projeto/analise-risco.md)
   - [**Análise de custo**](/projeto/analise-custo.md)
 

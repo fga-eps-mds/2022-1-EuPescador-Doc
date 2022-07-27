@@ -1,10 +1,7 @@
-# 2022-1-EuPescador-Doc
+# 2022-1 EuPescador
 
 Repositório para documentação do projeto EuPescador, desenvolvido pelos membros das disciplinas Metódos de Desenvolvimento de Software (MDS) e Engenharia do Produto de Software (EPS).
 
-## Sobre o projeto
-
----
 ## Time
 
 **Nome** | **Matricula** | **GitHub** 

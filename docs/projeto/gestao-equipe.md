@@ -4,6 +4,7 @@
 | Data | Versão | Modificação | Autor |
 | :--: | :----: | :---------: | :---: |
 | 13/07/2022 | 1.0 | Criação do documento | Ailamar Alves |
+| 25/07/2022 | 1.1 | Atualização de ferramentas | Ailamar Alves |
 
 ## Objetivo
 
@@ -29,11 +30,15 @@ Devido ao tamanho da equipe foi determiado o horário da reunião com a possibil
 
 |     Ferramenta       |                          Descrição                           |
 | :------------------: | :----------------------------------------------------------- |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/1200px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png" width=100px> | Ferramenta para realização de reuniões entre o time e cliente. |
-| <img src="https://imagepng.org/wp-content/uploads/2017/11/telegram-icone-icon-2.png" width=100px> | Ferramenta para de mensagens rápidas. O time utiliza a ferramenta para compartilhamento de arquivos, links, marcar reuniões internas, atualizações.|
-| <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" width="100px"> | Ferramenta de voz para bate-papo entre os usuários. O time utiliza essa ferramentas para tirar dúvidas ou passar informações do projeto com cliente e com o professor. |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width=100px> | Ferramenta utilizada para edição e armazenamento de documentos. |
-| <img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" width=100px> | A plataforma é utilizada para centralização da documentação, código e controle de versão. |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Microsoft_Office_Teams_%282018%E2%80%93present%29.svg/1200px-Microsoft_Office_Teams_%282018%E2%80%93present%29.svg.png" width=100px> | **Teams:** Ferramenta para realização de reuniões entre o time e cliente. |
+| <img src="https://imagepng.org/wp-content/uploads/2017/11/telegram-icone-icon-2.png" width=100px> | **Telegram:** Ferramenta para de mensagens rápidas. O time utiliza a ferramenta para compartilhamento de arquivos, links, marcar reuniões internas, atualizações.|
+| <img src="https://logodownload.org/wp-content/uploads/2017/11/discord-logo-4-1.png" width="100px"> | **Discord:** Ferramenta de voz para bate-papo entre os usuários. O time utiliza essa ferramentas para tirar dúvidas ou passar informações do projeto com cliente e com o professor. |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png" width=100px> | **Drive:** Ferramenta utilizada para edição e armazenamento de documentos. |
+| <img src="https://pbs.twimg.com/profile_images/1414990564408262661/r6YemvF9_400x400.jpg" width=100px> | **GitHub:** A plataforma é utilizada para documentação, códigos e controle de versão. |
+| <img src="https://www.compararsoftware.com/wp-content/uploads/2018/08/logoZenHub.png" width="100px"> | **ZenHub:** Plataforma em que organiza-se o planejamento das atividades semanais e também possui product backlog. |
+| <img src="https://assets.asana.biz/transform/ba9b63a3-f255-4088-b5fe-14ab4628f50b/logo-app-figma" width=100px> | **Figma:** Utilizado para desencvolvimento de protótipos. |
+| <img src="https://play-lh.googleusercontent.com/6vm41PRefe19H226FkTNyR3Z9gbKZILLFKOyihFIn8kmJn1VzMlKp8h2JlUFfcwn4RI" width=100px> | **Mural:** Ferramenta utilizada pelos integrantes para o desenvolvimento do Lean Inception. |
+
 
 ## Gestão de Conhecimento
 
