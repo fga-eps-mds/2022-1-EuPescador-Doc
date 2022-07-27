@@ -1,10 +1,9 @@
 - [**Projeto**](/projeto/_index.md)
-  - [**Análise de risco**](/documentos/analise_de_risco.md)
-  - [**Análise de custo**](/documentos/analise_de_valor_adquirido.md)
-  - [**Plano de comunicação**](/documentos/plano_de_comunicacao.md)
-  - [**Agenda de trabalho e ferramentas**](/documentos/agenda_de_trabalho_e_ferramentas.md)
-  - [**Guia de Contribuição**](/documentos/guia_de_contribuicao.md)
-  - [**Informações gerais da equipe**](/documentos/informacoes_gerais_da_equipe.md)
+  - [**Gestão da Equipe**](/projeto/gestao-equipe.md)
+  - [**Plano de Contribuição**](/projeto/plano-comunicacao.md)
+  - [**Análise de risco**](/projeto/analise-risco.md)
+  - [**Análise de custo**](/projeto/analise-custo.md)
+
 
 - [**Produto**](/produto/_index.md)
   - [**Visão do Produto**](/produto/doc-visao.md)

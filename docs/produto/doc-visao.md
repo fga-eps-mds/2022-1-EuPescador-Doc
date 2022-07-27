@@ -62,6 +62,11 @@ Para efetivamente identificar as funcionalidades necessárias, foram criados doi
 
 ![Página login](../assets/images/persona-2.JPG)
 
+- Persona 3 representando um usuário pescador.
+
+![Página login](../assets/images/persona-2.JPG)
+
+
 ## Jornada do Usuário
 
 Esta atividade descreve o percurso de um usuário por uma sequência de passos para alcançar seu objetivo. Os passos representam diferentes pontos de contato com o produto, caracterizando a interação da pessoa com ele. 
@@ -70,31 +75,47 @@ Esta atividade descreve o percurso de um usuário por uma sequência de passos p
 
 ![Página login](../assets/images/jornada.JPG)
 
-- Objetivo que a persona 2 busca alcançar.
-
-![Página login](../assets/images/jornada-2.JPG)
-
 ## Brainstorming de Funcionalidades
 
-Uma funcionalidade representa uma ação ou interação de um usuário com o produto, por exemplo: imprimir nota fscal, consultar extrato detalhado e convidar amigos do Facebook. A descrição de uma funcionalidade deve ser o  mais simples possível, visando atender um objetivo de negócio, uma necessidade da persona, e/ou contemplando um passo da jornada.
+O brainstorming é uma técnica que propõe uma reunião com a equipe de projeto visando estimular a criação de ideias, voltadas a resolução do problema em questão. Assim é possível explorar potenciais soluções entre os membros e observar o problema de seus vários ângulos. 
 
-O usuário está tentando fazer uma coisa, então o produto deve ter uma funcionalidade para isso.
+Para auxílio da visão do projeto foi feito um brainstorming levantado as funcionalidades do EuPescador. Essas funcionalidades visam atender os objetivo de negócio, as necessidades das personas, e/ou um passo da jornada.
+
+As funcionalidades levantadas foram:
 
 ![Gerencia de usuario](../assets/images/brainstorming.JPG)
 
 ## Revisão Técnica, de Negócio e UX
 
+Possui o objetivo de discutir como a equipe se sente em relação ao entendimento técnico, o de negócio e o de UX para cada funcionalidade. Nesta atividade, novas notas serão capturadas e as discordâncias e dúvidas ficarão mais aparentes.
+
+As funcionalidades foram listadas na imagem abaixo. As cores indicam o nível de confança, sendo verde maior confiança para desenvolvimento e vermelho menor confiança para desenvolvimento.
+
 ![Cadastro das espécies](../assets/images/ux-neg.JPG)
 
 ## Sequenciador
 
+O Sequenciador de funcionalidades auxilia na organização e visualização das funcionalidades e da sequência de validação incremental de desenvolvimento do produto. 
+
+Inicialmente tem-se as funcionalidades trabalhadas no MVP e em seguida seus incrementos subsequentes. O sequenciador foi dividido para a aplicação mobile e web.
+
+- Sequenciador aplicação mobile.
+
 ![Mapa de peixes](../assets/images/seq-mobile.JPG)
+
+- Sequenciador aplicação web.
 
 ![Mapa de peixes](../assets/images/seq-web.JPG)
 
 ## MVP CANVAS
 
+Este é um quadro visual que auxilia a alinhar e defnir a estratégia do MVP. Apresenta um resumo sobre o que foi discutido, o que compõe o MVP e o que esperar dele.
+
+- Canvas MVP aplicação mobile.
+
 ![Lista de peixes](../assets/images/canvas.JPG)
+
+- Canvas MVP aplicação mobile. 
 
 ![Lista de peixes](../assets/images/canvas-2.JPG)
 
