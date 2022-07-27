@@ -5,15 +5,19 @@
 
 # Sobre o Projeto
 
-Esse repositório foi criado para a matéria Requisitos de Software da Universidade de Brasília com o intuito de documentar o desenvolvimento e resultados do projeto de levantamento de requisitos de um aplicativo. O escolhido em questão pela equipe foi o da Mia Ajuda. Nesse repositório espera-se que ao final do semestre esteja pronta uma análise completa de pré-rastreablidade, elicitação, modelagem, análise e pós-rastreabilidade e também levantados os requisitos não funcionais e funcionais da aplicação.
+Esse repositório foi criado para as disciplinas Métodos de Desenvolvimento de Software (MDS) e Engenharia do Produto de Software (EPS) da Universidade de Brasília com o intuito de documentar o desenvolvimento e resultados do projeto ao longo do semestre. 
+
+O projeto em questão, escolhido pela equipe, foi o EuPescador. Espera-se que ao final do semestre esteja pronta uma nova versão do aplicativo mobile com as atualizações pendentes e sua versão web.
 
 # EuPescador
 
-O Mia Ajuda é uma aplicação criada em 2020 por estudantes da Universidade de Brasília(FGA). O aplicativo tem o propósito de ser uma ferramenta de incentivo a ações sociais de ajuda e colaboração entre pessoas de comunidades e vizinhanças. O Mia Ajuda serve como um meio de ligação entre pessoas necessitadas e voluntários que possam ajudar, seja de forma imaterial (entretenimento, companhia, amparo psicológico), como de forma material (comida, objetos, itens de higiene pessoal).
+O EuPescador é uma aplicação web criada no semestre de 2021-1 por estudantes da Universidade de Brasília (FGA). O aplicativo tem o propósito de incentivar o mapeamento de espécies de peixes encontradas por pescadores ao longo de suas aventuras hidroviárias. 
+
+Através do mapeamento com a localização dos animais e sua espécie, além da base de dados para trabalhadores da pesca, a aplicação auxilia pesquisadores e cientistas a identificar, controlar, registrar informações sobre os peixes e manter a preservação do ambiente aquático.
 
 # Contribuição
 
-Para contribuir, você dever acessar o Repositório Matriz. E verificar as politicas de commits, issues, branches e pull requests.
+Para contribuir, você dever acessar o [Repositório de documentação](https://github.com/fga-eps-mds/2022-1-EuPescador-Doc) e verificar as politicas de commits, issues, branches e pull requests.
 
 # Time
 
