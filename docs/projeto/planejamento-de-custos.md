@@ -3,7 +3,7 @@
 ## Histórico de versão
 | Data | Versão | Modificação | Autor |
 | :--: | :----: | :---------: | :---: |
-| 28/07/2022 | 1.0 | Criação do documento | Lucas Ganda, Wictor Girardi e Lucas Ganda|
+| 28/07/2022 | 1.0 | Criação do documento | Lucas Ganda e Wictor Girardi |
 
 ## Introdução
 
@@ -26,6 +26,11 @@ Para internet, consideramos a média de plano de R$ 100, dando R$ 25,00 semanal 
 
 ## Cálculo de Custo
 
-Somando os cálculos, obtemos um custo estimado semanal de R$ 4072. 
+Somando os cálculos, obtemos um custo estimado semanal de R$ 4072, entretanto como o projeto é dividido em sprints de 2 semanas, o custo da sprint fica em R$ 8144
+
+| Número das Sprints |  CUsto por Sprint | Total | 
+| :--: | :----: | :---------: | 
+| 8 | R$ 8144 | R$ 130304|
 
 
+Dessa forma, o custo estimado total do projeto ao fim das 8 sprints é de R$ 130304
