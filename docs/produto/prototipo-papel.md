@@ -3,8 +3,10 @@
 ## Histórico de versão
 | Data | Versão | Modificação | Autor |
 | :--: | :----: | :---------: | :---: |
-| 14/07/2022 | 1.0 | Criação do documento | Ailamar Alves |
-| 26/07/2022 | 1.1 | Alteração das imagens | Ailamar Alves |
+| 13/07/2022 | 1.0 | Criação do protótipo | Raquel Eucaria, Pedro Rodiguero, Daniel Oliveira e Vera Lúcia |
+| 14/07/2022 | 1.1 | Criação do versionamento | Ailamar Alves |
+| 26/07/2022 | 1.2 | Alteração das imagens | Ailamar Alves |
+| 08/08/2022 | 1.3 | Correção do histórico de versão | Lucas Ganda |
 
 ## Introdução
 
