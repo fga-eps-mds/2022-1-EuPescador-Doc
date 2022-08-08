@@ -3,9 +3,11 @@
 ## Histórico de versão
 | Data | Versão | Modificação | Autor |
 | :--: | :----: | :---------: | :---: |
-| 12/07/2022 | 1.0 | Criação do documento | Ailamar Alves |
-| 18/07/2022 | 1.1 | Adição introdução e definições | Ailamar Alves |
-| 20/07/2022 | 1.2 | Adição imagens | Ailamar Alves |
+| 11/07/2022 | 1.0 | Criação do documento | Todos de MDS e EPS |
+| 12/07/2022 | 1.1 | Criação do versionamento | Ailamar Alves |
+| 18/07/2022 | 1.2 | Adição introdução e definições | Ailamar Alves |
+| 20/07/2022 | 1.3 | Adição imagens | Ailamar Alves |
+| 08/08/2022 | 1.4 | Correção do histórico de versões | Lucas Ganda |
 
 ## Introdução
 
