@@ -4,6 +4,7 @@
 | Data | Versão | Modificação | Autor |
 | :--: | :----: | :---------: | :---: |
 | 28/07/2022 | 1.0 | Criação do documento | Lucas Ganda e Wictor Girardi |
+| 18/08/2022 | 1.1 | Atualização de valores de custo | João Gabriel Antunes |
 
 ## Introdução
 
@@ -16,7 +17,7 @@ Para fins de cálculo, utilizaremos como base apenas gastos com Pessoas e Infrae
 
 ## Pessoal
 
-Como base para a estimativa, usamos o seguinte [artigo](https://www.correiobraziliense.com.br/app/noticia/eu-estudante/ensino_ensinosuperior/2015/03/05/ensino_ensinosuperior_interna,474102/portas-abertas-ao-cidadao.shtml) que colocou a média do custo médio anual de R$ 15.000 por estudante de universidade federal. Dessa forma dividindo o custo médio pelo números de semana, 15.000/52, é obtido o valor de R$ 288 semanal por estudante. Entretanto como o time de MDS/EPS possui 13 membros, o custo semanal da equipe fica **R$ 3744**.
+Como base para a estimativa, usamos o seguinte [artigo](https://jornal.usp.br/artigos/a-cobranca-de-mensalidades-nas-universidades-publicas/) que colocou a média do custo médio anual de R$ 80.500,00 por estudante de universidade federal. Dessa forma dividindo o custo médio pelo números de semana, 80.500/52, é obtido o valor de R$ 1.548,07 semanal por estudante. Entretanto como o time de MDS/EPS possui 13 membros, o custo semanal da equipe fica **R$ 20.125,00**.
 
 ## Infraestrutura 
 
@@ -26,11 +27,11 @@ Para internet, consideramos a média de plano de R$ 100, dando R$ 25,00 semanal 
 
 ## Cálculo de Custo
 
-Somando os cálculos, obtemos um custo estimado semanal de R$ 4072, entretanto como o projeto é dividido em sprints de 2 semanas, o custo da sprint fica em R$ 8144
+Somando os cálculos, obtemos um custo estimado semanal de R$ 20.450,00, entretanto como o projeto é dividido em sprints de 2 semanas, o custo da sprint fica em R$ 40.900,00
 
-| Número das Sprints |  CUsto por Sprint | Total | 
+| Número das Sprints |  Custo por Sprint | Total | 
 | :--: | :----: | :---------: | 
-| 8 | R$ 8144 | R$ 130304|
+| 8 | R$ 40.900,00 | R$ 327.200,00|
 
 
-Dessa forma, o custo estimado total do projeto ao fim das 8 sprints é de R$ 130304
+Dessa forma, o custo estimado total do projeto ao fim das 8 sprints é de R$ 327.200,00
