@@ -3,8 +3,8 @@
 ## Histórico de versão
 | Data | Versão | Modificação | Autor |
 | :--: | :----: | :---------: | :---: |
-| 28/07/2022 | 1.0 | Criação do documento | Lucas Ganda e Wictor Girardi |
-| 18/08/2022 | 1.1 | Atualização de valores de custo | João Gabriel Antunes |
+| 28/07/2022 | 1.0 | Criação do documento | [Lucas Ganda](https://github.com/lucasgandac) e [Wictor Girardi](https://github.com/wictorgirardi) |
+| 18/08/2022 | 1.1 | Atualização de valores de custo | [João Gabriel Antunes](https://github.com/flyerjohn) |
 
 ## Introdução
 
