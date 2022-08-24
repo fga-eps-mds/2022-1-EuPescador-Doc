@@ -11,6 +11,6 @@
   - [**Protótipo de Alta Fidelidade**](/produto/prototipo-alta-fidelidade.md)
 
 - [**Sprints**](/sprints/_index.md)
-  - [Sprint 1](/sprints/sprint_1.md)
-  - [Sprint 2](/sprints/sprint_2.md)
-  - [Sprint 3](/sprints/sprint_3.md)
+  - [Sprint 1](/sprints/sprint-1.md)
+  - [Sprint 2](/sprints/sprint-2.md)
+  - [Sprint 3](/sprints/sprint-3.md)
