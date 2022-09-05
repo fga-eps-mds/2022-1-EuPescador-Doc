@@ -19,5 +19,10 @@ Seção para tarefas (tasks) para issues mais complexas ou sub-tarefas.
 - [ ] Redefinir senha.
 - [ ] Alguma outra tarefa.
 
+### Critérios de Aceitação
+Seção para os critérios que definem acerca da aceitação da tarefa. 
+- [ ] Login efetuado com sucesso.
+- [ ] Cadastro efetuado com sucesso.
+
 ### Comentários ou Observações
 Alguma informação necessária para melhor compreensão.
