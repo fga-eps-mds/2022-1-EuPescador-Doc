@@ -1,12 +1,7 @@
-# 2022-1-EuPescador-Doc
+# 2022-1 EuPescador
 
 Repositório para documentação do projeto EuPescador, desenvolvido pelos membros das disciplinas Metódos de Desenvolvimento de Software (MDS) e Engenharia do Produto de Software (EPS).
 
-## Sobre o projeto
-
-Aplicativo catalogado por pescadores que auxilia pesquisadores no mapeamento das espécies de peixes.
-
----
 ## Time
 
 **Nome** | **Matricula** | **GitHub** 
@@ -16,8 +11,6 @@ André Aben-Athar de Freitas | 170056155 | Andreabenf
 Lucas Ganda | 170039668 | lucasgandac
 Ailamar Alves | 160022673 | ailamaralves
 Joao Gabriel A | 170013651 | flyerjohn
-Raquel Eucaria | 202045268 | raqueleucaria
-Vera Lucia | 202045900 | verabelucia
 Bruno Henrique Moreira Cardoso | 190134275 | brunohenrique00
 Daniel Rocha Oliveira | 190104821 | DanRocha18
 Pedro Menezes Rodiguero | 190139323 | pedro.rodiguero
