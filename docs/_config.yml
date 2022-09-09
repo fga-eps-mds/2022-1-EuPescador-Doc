@@ -13,8 +13,8 @@
 # you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: EuPescador
-description: Documentação do projeto EuPescador
+title: Just the Docs
+description: A Jekyll theme for documentation
 baseurl: /2022-1-EuPescador-Doc
 url: https://fga-eps-mds.github.io
 
