@@ -11,8 +11,6 @@ André Aben-Athar de Freitas | 170056155 | Andreabenf
 Lucas Ganda | 170039668 | lucasgandac
 Ailamar Alves | 160022673 | ailamaralves
 Joao Gabriel A | 170013651 | flyerjohn
-Raquel Eucaria | 202045268 | raqueleucaria
-Vera Lucia | 202045900 | verabelucia
 Bruno Henrique Moreira Cardoso | 190134275 | brunohenrique00
 Daniel Rocha Oliveira | 190104821 | DanRocha18
 Pedro Menezes Rodiguero | 190139323 | pedro.rodiguero
