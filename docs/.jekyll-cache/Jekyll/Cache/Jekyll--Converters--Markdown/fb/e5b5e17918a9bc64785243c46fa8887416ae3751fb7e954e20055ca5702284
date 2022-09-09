@@ -1,0 +1,148 @@
+I"�<h1 id="documento-de-visão">Documento de Visão</h1>
+
+<h2 id="histórico-de-versão">Histórico de versão</h2>
+<p>| Data | Versão | Modificação | Autor |
+| :–: | :—-: | :———: | :—: |
+| 11/07/2022 | 1.0 | Criação do documento | Todos de MDS e EPS |
+| 12/07/2022 | 1.1 | Criação do versionamento | Ailamar Alves |
+| 18/07/2022 | 1.2 | Adição introdução e definições | Ailamar Alves |
+| 20/07/2022 | 1.3 | Adição imagens | Ailamar Alves |
+| 08/08/2022 | 1.4 | Correção do histórico de versões | Lucas Ganda |</p>
+
+<h2 id="introdução">Introdução</h2>
+
+<p>Lean Inception é a combinação eficaz do Design Thinking e do Lean StartUp para decidir o Produto Mínimo Viável (MVP). É um workshop colaborativo dividido em várias etapas e atividades que irão direcionar a equipe na construção do produto.</p>
+
+<h2 id="objetivo">Objetivo</h2>
+
+<p>Esse documento objetiva-se apresentar as funcionalidades inicialmente pensadas para a página web do EuPescador.</p>
+
+<h2 id="visão-do-produto">Visão do Produto</h2>
+
+<p>A visão do produto ajuda a trilhar o caminho inicial do projeto. Ela define a essência do valor de negócio e reflete uma mensagem clara para os clientes. Com uma visão clara do produto, é possível determinar como as peças do negócio vão se juntar.</p>
+
+<p>A partir do produto já existente e suas devidas melhorias, a equipe desenvolveu a seguinte visão do produto:</p>
+
+<p><img src="../assets/images/visao-produto.JPG" alt="Página login" /></p>
+
+<h2 id="é---não-é--faz---não-faz">É - Não é / Faz - Não faz</h2>
+
+<p>É uma atividade que busca classificações sobre o produto seguindo as quatro diretrizes, indagando, especificamente, cada aspecto positivo e negativo sobre o produto ser ou fazer algo.</p>
+
+<p>Inicialmente temos a classificação do que o produto é e faz:</p>
+
+<p><img src="../assets/images/e-faz.JPG" alt="Página login" /></p>
+
+<p>Decidir o que não fazer é tão importante quanto decidir o que fazer. Sendo assim temos:</p>
+
+<p><img src="../assets/images/nao-faz.JPG" alt="Página login" /></p>
+
+<h2 id="objetivos-do-produto">Objetivos do Produto</h2>
+
+<p>Nesta atividade cada integrante da equipe compartilha o que entende como objetivo para o produto. Os vários pontos de vista
+devem ser discutidos para chegar a um consenso sobre o que é realmente importante para levantamento e esclarecimento dos objetivos.</p>
+
+<p>Os integrantes listaram três objetivos para o negócio, que resultou em:</p>
+
+<p><img src="../assets/images/ideacao.JPG" alt="Página login" /></p>
+
+<p>Agrupando cada objetivo por similaridade, foi criado o cluster:</p>
+
+<p><img src="../assets/images/cluster.JPG" alt="Página login" /></p>
+
+<h2 id="personas">Personas</h2>
+
+<p>Uma persona cria uma representação realista de usuários, auxiliando a equipe a descrever funcionalidades do ponto de vista de quem vai interagir com o produto final. Uma persona representa um usuário do produto, descrevendo não só o seu papel, mas também características e necessidades.</p>
+
+<p>Para efetivamente identificar as funcionalidades necessárias, foram criados dois tipos de usuários e seus respectivos papéis na utilização do produto:</p>
+
+<ul>
+  <li>Persona 1 representando um usuário pesquisador.</li>
+</ul>
+
+<p><img src="../assets/images/persona.JPG" alt="Página login" /></p>
+
+<ul>
+  <li>Persona 2 representando um usuário pescador.</li>
+</ul>
+
+<p><img src="../assets/images/persona-2.JPG" alt="Página login" /></p>
+
+<ul>
+  <li>Persona 3 representando um usuário pescador.</li>
+</ul>
+
+<p><img src="../assets/images/persona-2.JPG" alt="Página login" /></p>
+
+<h2 id="jornada-do-usuário">Jornada do Usuário</h2>
+
+<p>Esta atividade descreve o percurso de um usuário por uma sequência de passos para alcançar seu objetivo. Os passos representam diferentes pontos de contato com o produto, caracterizando a interação da pessoa com ele.</p>
+
+<ul>
+  <li>Objetivo que a persona 1 busca alcançar.</li>
+</ul>
+
+<p><img src="../assets/images/jornada.JPG" alt="Página login" /></p>
+
+<h2 id="brainstorming-de-funcionalidades">Brainstorming de Funcionalidades</h2>
+
+<p>O brainstorming é uma técnica que propõe uma reunião com a equipe de projeto visando estimular a criação de ideias, voltadas a resolução do problema em questão. Assim é possível explorar potenciais soluções entre os membros e observar o problema de seus vários ângulos.</p>
+
+<p>Para auxílio da visão do projeto foi feito um brainstorming levantado as funcionalidades do EuPescador. Essas funcionalidades visam atender os objetivo de negócio, as necessidades das personas, e/ou um passo da jornada.</p>
+
+<p>As funcionalidades levantadas foram:</p>
+
+<p><img src="../assets/images/brainstorming.JPG" alt="Gerencia de usuario" /></p>
+
+<h2 id="revisão-técnica-de-negócio-e-ux">Revisão Técnica, de Negócio e UX</h2>
+
+<p>Possui o objetivo de discutir como a equipe se sente em relação ao entendimento técnico, o de negócio e o de UX para cada funcionalidade. Nesta atividade, novas notas serão capturadas e as discordâncias e dúvidas ficarão mais aparentes.</p>
+
+<p>As funcionalidades foram listadas na imagem abaixo. As cores indicam o nível de confança, sendo verde maior confiança para desenvolvimento e vermelho menor confiança para desenvolvimento.</p>
+
+<p><img src="../assets/images/ux-neg.JPG" alt="Cadastro das espécies" /></p>
+
+<h2 id="sequenciador">Sequenciador</h2>
+
+<p>O Sequenciador de funcionalidades auxilia na organização e visualização das funcionalidades e da sequência de validação incremental de desenvolvimento do produto.</p>
+
+<p>Inicialmente tem-se as funcionalidades trabalhadas no MVP e em seguida seus incrementos subsequentes. O sequenciador foi dividido para a aplicação mobile e web.</p>
+
+<ul>
+  <li>Sequenciador aplicação mobile.</li>
+</ul>
+
+<p><img src="../assets/images/seq-mobile.JPG" alt="Mapa de peixes" /></p>
+
+<ul>
+  <li>Sequenciador aplicação web.</li>
+</ul>
+
+<p><img src="../assets/images/seq-web.JPG" alt="Mapa de peixes" /></p>
+
+<h2 id="mvp-canvas">MVP CANVAS</h2>
+
+<p>Este é um quadro visual que auxilia a alinhar e defnir a estratégia do MVP. Apresenta um resumo sobre o que foi discutido, o que compõe o MVP e o que esperar dele.</p>
+
+<ul>
+  <li>Canvas MVP aplicação mobile.</li>
+</ul>
+
+<p><img src="../assets/images/canvas.JPG" alt="Lista de peixes" /></p>
+
+<ul>
+  <li>Canvas MVP aplicação mobile.</li>
+</ul>
+
+<p><img src="../assets/images/canvas-2.JPG" alt="Lista de peixes" /></p>
+
+<h2 id="lean-inception">Lean Inception</h2>
+
+<p>Para visualizar o mural completo acesse o <a href="https://app.mural.co/t/unbfgaepsmds202111846/m/unbfgaepsmds202111846/1654695732969/c0a887fc3609c105085272211893e4cbcba497e5?invited=true&amp;sender=u114ae1e60ee038ecd8c71344">link</a>.</p>
+
+<h2 id="referências">Referências</h2>
+
+<ul>
+  <li>CAROLI, Paulo. Lean Inception: Como Alinhar Pessoas e Construir o Produto Certo. Caroli. Disponível em https://www.caroli.org/livro/lean-inception/. Acesso em: 12 jul. 2022.</li>
+</ul>
+:ET

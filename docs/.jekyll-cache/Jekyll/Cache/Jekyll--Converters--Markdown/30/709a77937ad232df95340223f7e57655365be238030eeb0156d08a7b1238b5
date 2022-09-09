@@ -1,0 +1,41 @@
+I"N<h1 id="protótipo-de-papel">Protótipo de Papel</h1>
+
+<h2 id="histórico-de-versão">Histórico de versão</h2>
+<p>| Data | Versão | Modificação | Autor |
+| :–: | :—-: | :———: | :—: |
+| 13/07/2022 | 1.0 | Criação do protótipo | Raquel Eucaria, Pedro Rodiguero, Daniel Oliveira e Vera Lúcia |
+| 14/07/2022 | 1.1 | Criação do versionamento | Ailamar Alves |
+| 26/07/2022 | 1.2 | Alteração das imagens | Ailamar Alves |
+| 08/08/2022 | 1.3 | Correção do histórico de versão | Lucas Ganda |</p>
+
+<h2 id="introdução">Introdução</h2>
+
+<p>A prototipagem de papel é uma técnica que permite criar e testar interfaces de usuário de forma rápida e barata em que os protótipos, de papel, geram um excelente feedback de observação sobre o comportamento do usuário em relação ao design. Foi utilizada no desenvolvimento da prototipação a base de funcionalidades já existentes na versão mobile.</p>
+
+<h2 id="objetivo">Objetivo</h2>
+
+<p>Esse documento objetiva apresentar as funcionalidades inicialmente pensadas para a página web do EuPescador.</p>
+
+<h2 id="protótipo">Protótipo</h2>
+
+<h3 id="página-login">Página login</h3>
+<p><img src="../assets/images/papel-login.jpeg" alt="Geral" /></p>
+
+<h3 id="página-de-cadastro">Página de cadastro</h3>
+<p><img src="../assets/images/papel-cadastro.jpeg" alt="Geral" /></p>
+
+<h3 id="mapa-de-peixes">Mapa de peixes</h3>
+<p><img src="../assets/images/papel-mapa.jpeg" alt="Geral" /></p>
+
+<h3 id="barra-de-menu">Barra de menu</h3>
+<p><img src="../assets/images/papel-side.jpeg" alt="Geral" /></p>
+
+<h3 id="fluxo-geral">Fluxo geral</h3>
+<p><img src="../assets/images/papel-menu.jpeg" alt="Geral" /></p>
+
+<h2 id="referências">Referências</h2>
+
+<ul>
+  <li>MEDIUM. Protótipos de Papel. Disponível em: https://medium.com/aela/prototipos-de-papel-9f812d5b0dcc. Acesso em: 14 jul. 2022.</li>
+</ul>
+:ET

@@ -1,0 +1,55 @@
+I"<h1 id="definições-arquiteturais">Definições Arquiteturais</h1>
+
+<h2 id="histórico-de-versão">Histórico de versão</h2>
+<p>| Data | Versão | Modificação | Autor |
+| :–: | :—-: | :———: | :—: |
+| 03/08/2022 | 1.0 | Criação do diagrama | André Freitas |
+| 08/08/2022 | 1.1 | Criação do documento | Lucas Ganda |</p>
+
+<h2 id="introdução">Introdução</h2>
+
+<p>Esse documento tem como finalidade apresentar uma visão arquitetural do projeto EuPescador, facilitando dessa forma o entendimento do funcionamento dos processos envolvidos, além também tem como objetivo servir como uma atualização em relação ao documento anteriormente produzido <a href="https://fga-eps-mds.github.io/2021-2-Eu_Pescador-Doc/#/Product/ArchitectureDocument">no semestre 2021-2</a>. Neste documento estará descritos os componentes, as estruturas e as tecnologias envolvidas no funcionamento do sistema.</p>
+
+<h2 id="escopo">Escopo</h2>
+
+<p>O projeto do EuPescador é constituído por um sistema compostos de uma aplicação web e uma mobile que tem como finalidade principal permitir o registro, visualização e validação de espécimes aquáticos. Dessa forma facilitando o acompanhamento de ecossistemas aquáticos por parte dos pesquisadores a partir de informações fornecidas em campo por pescadores.</p>
+
+<h2 id="tecnologias">Tecnologias</h2>
+
+<h3 id="expo">Expo</h3>
+
+<p>Expo é uma plataforma que permite o desenvolvimento de aplicações mobile para Android e iOs.</p>
+
+<h3 id="nodejs">Node.js</h3>
+
+<p>O Node.js é um ambiente de execução JavaScript server-side que permite executar código Javascript ou Typescript fora do navegador, dessa forma permitindo construir aplicações web variadas, como APIs ou microsserviços.</p>
+
+<h3 id="postgresql">PostgreSQL</h3>
+
+<p>PostgreSQL é um sistema gerenciador de banco de dados relacional <em>open-source</em> e gratuito, um dos mais avançados e completos de código aberto.</p>
+
+<h3 id="heroku">Heroku</h3>
+
+<p>A Heroku é uma plataforma nuvem que faz deploy de várias aplicações back-end seja para hospedagem, testes em produção ou escalar aplicações, também possui integraação com o Github.</p>
+
+<h3 id="react-native">React Native</h3>
+
+<p>React Native é uma framework baseada no Javascript que tem como finalidade facilitar o desenvolvimeto de aplicações mobiles multiplataformas.</p>
+
+<h3 id="react">React</h3>
+
+<p>React é uma biblioteca baseada no Javascript que tem como finalidade auxiliar na criação de interfaces para aplicações web, lançada e mantida pelo Facebook</p>
+
+<h2 id="diagrama">Diagrama</h2>
+<p><img src="../assets/images/diagrama-arquitetura.png" alt="Diagrama arquitetural" /></p>
+
+<h2 id="referências">Referências</h2>
+
+<p>Guia Completa de PostgreSQL: PostgreSQL do Básico ao Avançado. DevMedia. Disponível em: <a href="https://www.devmedia.com.br/guia/tecnologia-postgresql/34328">https://www.devmedia.com.br/guia/tecnologia-postgresql/34328</a>. Acesso em: 8  ago.  2022.</p>
+
+<p>Guia Completo de Node.js: Aprenda Node.js do Básico ao Avançado. DevMedia. Disponível em: <a href="https://www.devmedia.com.br/guia/node-js/40312">https://www.devmedia.com.br/guia/node-js/40312</a>. Acesso em: 8  ago.  2022.</p>
+
+<p>Documento de Arquitetura. Eu_Pescador. Disponível em: https://fga-eps-mds.github.io/2021-2-Eu_Pescador-Doc/#/Product/ArchitectureDocument. Acesso em: 8 ago. 2022.</p>
+
+<p>Como documentar a Arquitetura de Software. Disponível em: http://www.linhadecodigo.com.br/artigo/3343/como-documentar-a-arquitetura-de-software.aspx. Acesso em: 8 ago. 2022.</p>
+:ET

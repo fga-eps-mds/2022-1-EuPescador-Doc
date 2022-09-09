@@ -1,0 +1,41 @@
+I"s<h1 id="protótipo-de-alta-fidelidade">Protótipo de Alta Fidelidade</h1>
+
+<h2 id="histórico-de-versão">Histórico de versão</h2>
+<p>| Data | Versão | Modificação | Autor |
+| :–: | :—-: | :———: | :—: |
+| 19/07/2022 | 1.0 | Criação do protótipo | Wictor Bastos, Raquel Eucaria e Lucas Ganda |
+| 20/07/2022 | 1.1 | Criação do versionamento | Ailamar Alves |
+| 21/07/2022 | 1.2 | Adição das imagens | Ailamar Alves |
+| 08/08/2022 | 1.3 | Correção do histórico de versão | Lucas Ganda |</p>
+
+<h2 id="introdução">Introdução</h2>
+
+<p>Um protótipo de alta fidelidade é uma representação interativa do produto, baseada no computador ou em dispositivos móveis. Esse protótipo apresenta maior semelhança com o design final em termos de detalhes e funcionalidade. Foi desenvolvido de acordo com a validação da prototipação de papel pelo cliente.</p>
+
+<h2 id="objetivo">Objetivo</h2>
+
+<p>Esse documento apresenta o protótipo de alta fidelidade para a página web do projeto EuPescador.</p>
+
+<h2 id="protótipo">Protótipo</h2>
+
+<h3 id="página-login">Página login</h3>
+<p><img src="../assets/images/alta-login.JPG" alt="Página login" /></p>
+
+<h3 id="gerência-de-usuários">Gerência de usuários</h3>
+<p><img src="../assets/images/alta-gerencia-user.JPG" alt="Gerencia de usuario" /></p>
+
+<h3 id="cadastro-das-espécies">Cadastro das espécies</h3>
+<p><img src="../assets/images/alta-cadastro-especie.JPG" alt="Cadastro das espécies" /></p>
+
+<h3 id="mapa-de-peixes">Mapa de peixes</h3>
+<p><img src="../assets/images/alta-mapa.JPG" alt="Mapa de peixes" /></p>
+
+<h3 id="lista-de-peixes">Lista de peixes</h3>
+<p><img src="../assets/images/alta-lista-peixes.JPG" alt="Lista de peixes" /></p>
+
+<h2 id="referências">Referências</h2>
+
+<ul>
+  <li>TASSIOAUAD. Prototipação. Disponível em: https://tassioauad.com/2017/02/02/prototipacao/. Acesso em: 20 jul. 2022.</li>
+</ul>
+:ET
