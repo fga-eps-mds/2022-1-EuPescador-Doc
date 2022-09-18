@@ -1,3 +1,9 @@
+---
+layout: default
+title:  Sprint 5
+parent: Sprints
+---
+
 ## Sprint 5
 
 ### Objetivo
