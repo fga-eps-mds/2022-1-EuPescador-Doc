@@ -14,6 +14,8 @@ parent: Produto
 | 20/07/2022 | 1.1 | Criação do versionamento | Ailamar Alves |
 | 21/07/2022 | 1.2 | Adição das imagens | Ailamar Alves |
 | 08/08/2022 | 1.3 | Correção do histórico de versão | Lucas Ganda |
+| 20/08/2022 | 1.4 | Protótipos aprovação e edição dos logs | Bruno e Daniel |
+| 18/09/2022 | 1.5 | Adição novos protótipos | Ailamar Alves |
 
 ## Introdução
 
@@ -24,6 +26,9 @@ Um protótipo de alta fidelidade é uma representação interativa do produto, b
 Esse documento apresenta o protótipo de alta fidelidade para a página web do projeto EuPescador.
 
 ## Protótipo 
+
+### Página cadastro
+![Página cadastro](../../../assets/images/alta-cadastro.JPG)
 
 ### Página login
 ![Página login](../../../assets/images/alta-login.JPG)
@@ -39,6 +44,12 @@ Esse documento apresenta o protótipo de alta fidelidade para a página web do p
 
 ### Lista de peixes
 ![Lista de peixes](../../../assets/images/alta-lista-peixes.JPG)
+
+### Página aprovação do log
+![Mapa de peixes](../../../assets/images/alta-log-aprovar.JPG)
+
+### Página edição do log
+![Mapa de peixes](../../../assets/images/alta-log-editar.JPG)
 
 ## Referências
 
