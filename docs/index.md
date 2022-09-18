@@ -2,101 +2,132 @@
 layout: default
 title: Home
 nav_order: 1
-description: "Just the Docs is a responsive Jekyll theme with built-in search that is easily customizable and hosted on GitHub Pages."
+description: "EuPescador Docs"
 permalink: /
 ---
 
-# teste.
-{: .fs-9 }
+<p align="center"> 
+<br>   
+<img src='./assets/images/logo.png' class="cover-image" width="193" height="169">
+</p>
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
-{: .fs-6 .fw-300 }
+<style>
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/just-the-docs/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+  padding: 10px;
+}
+.img-thumbnail {
+    border-radius: 100px;
+}
+.grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  font-size: 30px;
+  text-align: center;
+}
+.text {
+  font-size: 18px;
+  text-align: center;
+}
+</style>
 
----
+# Sobre o Projeto
 
-## Getting started
+Esse repositório foi criado para as disciplinas Métodos de Desenvolvimento de Software (MDS) e Engenharia do Produto de Software (EPS) da Universidade de Brasília com o intuito de documentar o desenvolvimento e resultados do projeto ao longo do semestre. 
 
-### Dependencies
+O projeto em questão, escolhido pela equipe, foi o EuPescador. Espera-se que ao final do semestre esteja pronta uma nova versão do aplicativo mobile com as atualizações pendentes e sua versão web.
 
-Just the Docs is built for [Jekyll](https://jekyllrb.com), a static site generator. View the [quick start guide](https://jekyllrb.com/docs/) for more information. Just the Docs requires no special plugins and can run on GitHub Pages' standard Jekyll compiler. The [Jekyll SEO Tag plugin](https://github.com/jekyll/jekyll-seo-tag) is included by default (no need to run any special installation) to inject SEO and open graph metadata on docs pages. For information on how to configure SEO and open graph metadata visit the [Jekyll SEO Tag usage guide](https://jekyll.github.io/jekyll-seo-tag/usage/).
+# EuPescador
 
-### Quick start: Use as a GitHub Pages remote theme
+O EuPescador é uma aplicação web criada no semestre de 2021-1 por estudantes da Universidade de Brasília (FGA). O aplicativo tem o propósito de incentivar o mapeamento de espécies de peixes encontradas por pescadores ao longo de suas aventuras hidroviárias. 
 
-1. Add Just the Docs to your Jekyll site's `_config.yml` as a [remote theme](https://blog.github.com/2017-11-29-use-any-theme-with-github-pages/)
+Através do mapeamento com a localização dos animais e sua espécie, além da base de dados para trabalhadores da pesca, a aplicação auxilia pesquisadores e cientistas a identificar, controlar, registrar informações sobre os peixes e manter a preservação do ambiente aquático.
 
-```yaml
-remote_theme: just-the-docs/just-the-docs
-```
+# Contribuição
 
-<small>You must have GitHub Pages enabled on your repo, one or more Markdown files, and a `_config.yml` file. [See an example repository](https://github.com/pmarsceill/jtd-remote)</small>
+Para contribuir, você dever acessar o [Repositório de documentação](https://github.com/fga-eps-mds/2022-1-EuPescador-Doc) e verificar as politicas de commits, issues, branches e pull requests.
 
-### Local installation: Use the gem-based theme
+# Time
 
-1. Install the Ruby Gem
-  ```bash
-  $ gem install just-the-docs
-  ```
-  ```yaml
-  # .. or add it to your your Jekyll site’s Gemfile
-  gem "just-the-docs"
-  ```
-
-2. Add Just the Docs to your Jekyll site’s `_config.yml`
-  ```yaml
-  theme: "just-the-docs"
-  ```
-
-3. _Optional:_ Initialize search data (creates `search-data.json`)
-  ```bash
-  $ bundle exec just-the-docs rake search:init
-  ```
-
-3. Run you local Jekyll server
-  ```bash
-  $ jekyll serve
-  ```
-  ```bash
-  # .. or if you're using a Gemfile (bundler)
-  $ bundle exec jekyll serve
-  ```
-
-4. Point your web browser to [http://localhost:4000](http://localhost:4000)
-
-If you're hosting your site on GitHub Pages, [set up GitHub Pages and Jekyll locally](https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll) so that you can more easily work in your development environment.
-
-### Configure Just the Docs
-
-- [See configuration options]({{ site.baseurl }}{% link docs/configuration.md %})
-
----
-
-## About the project
-
-Just the Docs is &copy; 2017-{{ "now" | date: "%Y" }} by [Patrick Marsceill](http://patrickmarsceill.com).
-
-### License
-
-Just the Docs is distributed by an [MIT license](https://github.com/just-the-docs/just-the-docs/tree/main/LICENSE.txt).
-
-### Contributing
-
-When contributing to this repository, please first discuss the change you wish to make via issue,
-email, or any other method with the owners of this repository before making a change. Read more about becoming a contributor in [our GitHub repo](https://github.com/just-the-docs/just-the-docs#contributing).
-
-#### Thank you to the contributors of Just the Docs!
-
-<ul class="list-style-none">
-{% for contributor in site.github.contributors %}
-  <li class="d-inline-block mr-1">
-     <a href="{{ contributor.html_url }}"><img src="{{ contributor.avatar_url }}" width="32" height="32" alt="{{ contributor.login }}"/></a>
-  </li>
-{% endfor %}
-</ul>
-
-### Code of Conduct
-
-Just the Docs is committed to fostering a welcoming community.
-
-[View our Code of Conduct](https://github.com/just-the-docs/just-the-docs/tree/main/CODE_OF_CONDUCT.md) on our GitHub repository.
+<div class="grid-container">
+  <div class="grid-item"> 
+   <img src="https://github.com/ailamaralves.png" alt="Ailamar Alves" class="img-thumbnail image">
+            <div class="middle">
+                <div class="text">
+                    Ailamar Alves (EPS) <br> 16/0022673
+                </div>
+            </div></div>
+  <div class="grid-item">   
+  <img src="https://github.com/Andreabenf.png" alt="André Aben-Athar" class="img-thumbnail image">
+            <div class="middle">
+                <div class="text">
+                    André Aben-Athar (EPS) <br> 17/0056155
+                </div>
+            </div></div>
+  <div class="grid-item">
+   <img src="https://github.com/flyerjohn.png" alt="Joao Gabriel" class="img-thumbnail image">
+            <div class="middle">
+                <div class="text">
+                    Joao Gabriel A (EPS) <br> 17/0013651
+                </div>
+            </div></div>
+  <div class="grid-item">
+   <img src="https://github.com/lucasgandac.png" alt="Lucas Ganda" class="img-thumbnail image">
+            <div class="middle">
+                <div class="text">
+                    Lucas Ganda (EPS) <br> 17/0039668
+                </div>
+            </div></div>
+  <div class="grid-item">
+    <img src="https://github.com/wictorGirardi.png" alt="Wictor Bastos" class="img-thumbnail image">
+            <div class="middle">
+                <div class="text">
+                    Wictor Bastos (EPS) <br> 17/0047326
+                </div>
+            </div></div>
+  <div class="grid-item">  
+  <img src="https://github.com/brunohenrique00.png" alt="Bruno Henrique" class="img-thumbnail image">
+            <div class="middle">
+                <div class="text">
+                    Bruno Henrique (MDS) <br> 19/0134275
+                </div>
+            </div></div>
+  <div class="grid-item">
+   <img src="https://github.com/DanRocha18.png" alt="Daniel Rocha" class="img-thumbnail image">
+            <div class="middle">
+                <div class="text">
+                   Daniel Rocha (MDS) <br> 19/0104821
+                </div>
+            </div></div>
+  <div class="grid-item"> 
+  <img src="https://github.com/murilopbs.png" alt="Murilo Perazzo" class="img-thumbnail image">
+            <div class="middle">
+                <div class="text">
+                   Murilo Perazzo (MDS) <br> 19/0129221
+                </div>
+            </div></div>
+  <div class="grid-item">  
+   <img src="https://github.com/AlefMemTav.png" alt="Pedro Lucas" class="img-thumbnail image">
+            <div class="middle">
+                <div class="text">
+                   Pedro Lucas (MDS) <br> 19/0115548
+                </div>
+            </div></div>
+    <div class="grid-item">   
+    <img src="https://avatars.githubusercontent.com/u/56134679?v=4" alt="Pedro Menezes" class="img-thumbnail image">
+            <div class="middle">
+                <div class="text">
+                   Pedro Menezes (MDS) <br> 19/0139323
+                </div>
+            </div></div>
+      <div class="grid-item">    
+      <img src="https://github.com/ian-dcg.png" alt="Ian da Costa" class="img-thumbnail image">
+            <div class="middle">
+                <div class="text">
+                   Ian da Costa (MDS) <br> 19/0125829
+                </div>
+            </div></div>
+   
+</div>
