@@ -14,7 +14,8 @@ parent: Produto
 | 14/09/2022 | 1.1 | Adição Introdução e Objetivo | [Ailamar Alves](https://github.com/ailamaralves) e [João Gabriel Antunes](https://github.com/flyerjohn) |
 | 08/08/2022 | 1.2 | Release 1 Mobile | Time EPS |
 | 15/08/2022 | 1.3 | Release 3 Mobile | Time EPS |
-| 05/09/2022 | 1.4 | Release 5 Mobile | Time EPS |
+| 26/08/2022 | 1.4 | Release 5 Web | Time MDS |
+| 05/09/2022 | 1.5 | Release 5 Mobile | Time EPS |
 
 ## Introdução
 
@@ -139,10 +140,31 @@ Ambiente: Sistema Operacional Android
 
 **Resposta:**
 
-## Release 1 - Web
+## Release 5 - Web
 
+Ambiente: Browser 
 
+### Funcionalidades 
 
+1. **Edição do registro do peixe**
+
+**Critério de Aceitação: Este processo está ocorrendo como o esperado, ou seja, após clicar na seção de peixes, clicar no ícone de edição e poder, além de visualizar todas as informações do peixe, é possível inserir novos dados?**
+
+**Resposta:** Outros.  
+
+*"Aparentemente está funcionando normal. Apenas muito lento para carregar os logs principalmente após a edição. Conversando com outras pessoas pensamos que quando chegar no momento do mapa, seria interessante que nesta página da ediçao tivesse um botão da mesma forma q tem para aprovar para exibir no mapa ou não"*
+
+2. **Salvar registro de peixe**
+
+**Critério de Aceitação: Este processo está ocorrendo como o esperado, ou seja, após clicar na seção de peixes, clicar no ícone de edição, editar as informações de sua escolhas, é possível salvar ou cancelar essas informações, clicando no botão de salvar ou cancelar?**
+
+**Resposta:** Sim. 
+
+3. **Aprovar registro de peixe**
+
+**Critério de Aceitação: Este processo está ocorrendo como o esperado, ou seja, após clicar na seção de peixes, clicar no ícone de edição, editar e salvar as informações de sua escolhas, é possível aprovar o registro, clicando no botão de aprovar?**
+
+**Resposta:** Sim. 
 
 ## Referências
 - Testes de aceitação: conhecendo e aplicando. Disponível em: <[http://www.unimep.br/~anbelgamo/SQA/2-QualidProduto.pdf](https://www.devmedia.com.br/testes-de-aceitacao-conhecendo-e-aplicando/26959)>. Acesso em: set, 2022.
