@@ -14,8 +14,10 @@ parent: Produto
 | 14/09/2022 | 1.1 | Adição Introdução e Objetivo | [Ailamar Alves](https://github.com/ailamaralves) e [João Gabriel Antunes](https://github.com/flyerjohn) |
 | 08/08/2022 | 1.2 | Release 1 Mobile | Time EPS |
 | 15/08/2022 | 1.3 | Release 3 Mobile | Time EPS |
-| 26/08/2022 | 1.4 | Release 5 Web | Time MDS |
-| 05/09/2022 | 1.5 | Release 5 Mobile | Time EPS |
+| 23/08/2022 | 1.4 | Release 4 Web | Time MDS |
+| 26/08/2022 | 1.5 | Release 5 Web | Time MDS |
+| 05/09/2022 | 1.6 | Release 5 Mobile | Time EPS |
+| 22/09/2022 | 1.7 | Atualização do documento | [Ailamar Alves](https://github.com/ailamaralves) |
 
 ## Introdução
 
@@ -139,6 +141,32 @@ Ambiente: Sistema Operacional Android
 **Critério de Aceitação: O processo de selecionar esta opção está ocorrendo como o esperado, ou seja, após selecioná-la, a tela de registro proposta para esta opção aparece de acordo com o esperado?**
 
 **Resposta:**
+
+## Release 4 - Web
+
+Ambiente: Browser 
+
+### Funcionalidades 
+
+1. **Visualizar registros dos peixes**
+
+**Critério de Aceitação: Este processo está ocorrendo como o esperado, ou seja, após clicar na seção de peixes, na barra direita, é possível ver a lista de todos os registros de peixes com informações básicas?**
+
+**Resposta:** Sim.
+
+2. **Visualizar tabela de usuários**
+
+**Critério de Aceitação: Este processo está ocorrendo como o esperado, ou seja, após clicar na seção de usuários, na barra direita, é possível ver a lista de todos os usuários existentes cadastrados?**
+
+**Resposta:** Sim. 
+
+3. **Caso tenha algum erro inesperado, bugs ou comportamentos inesperados, por favor fazer o upload de um print da imagem do app.**
+
+**Resposta:**  
+
+4. **Existe alguma consideração final que deseja realizar sobre a experiência de uso?**
+
+**Resposta:** *"Pessoal parabéns pelo trabalho a parte web fez um avanço notável. Estamos ansiosos para ver o controle de usuários e de registros funcionando."*
 
 ## Release 5 - Web
 
