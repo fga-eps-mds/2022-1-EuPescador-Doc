@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Post Mortem
-parent: produto
+parent: Produto
 ---
 
 
