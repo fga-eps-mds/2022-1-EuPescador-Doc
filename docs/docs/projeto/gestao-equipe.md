@@ -1,17 +1,11 @@
----
-layout: default
-title:  Gestão da Equipe 
-parent: Projeto
----
-
 # Gestão da Equipe 
 
 ## Histórico de versão
-
 | Data | Versão | Modificação | Autor |
 | :--: | :----: | :---------: | :---: |
 | 13/07/2022 | 1.0 | Criação do documento | Ailamar Alves |
 | 25/07/2022 | 1.1 | Atualização de ferramentas | Ailamar Alves |
+| 25/07/2022 | 1.1 | Atualização quadro conhecimento | Time MDS |
 
 ## Objetivo
 
@@ -26,7 +20,7 @@ Para controle da produtividade, é apresentado o quadro de conhecimento dos inte
 
 Para alinhar o dia das reuniões foi elaborada uma tabela de disponibilidade determinando os melhores horários para as reuniões em grupo e com o cliente. A agenda livre em comum para todos ficou inviável por ser muito tarde como mostrado na figura: 
 
-![Geral](../../../assets/images/disponibilidade.JPG)
+![Geral](../../assets/images/disponibilidade.JPG)
 
 Devido ao tamanho da equipe foi determiado o horário da reunião com a possibilidade do maior número de integrantes. Dessa forma, ficou definido:
 - As reuniões do grupo de EPS/MDS duas vezes na semana;
@@ -55,8 +49,14 @@ Ao decorrer do semestre o quadro pode ser alterado para verificar a evolução d
 
 ### Quadro de conhecimento
 
-O quadro gerado pela equipe, inicialmente, foi:
+O quadro gerado pela equipe foi:
 
-![Geral](../../../assets/images/conhecimento.JPG)
+- Inicio do projeto
 
-![Geral](../../../assets/images/conhecimento-leg.JPG)
+![Geral](../../assets/images/conhecimento.JPG)
+
+- Final do projeto
+
+![Geral](../../assets/images/conhecimento-final.JPG)
+
+![Geral](../../assets/images/conhecimento-leg.JPG)
